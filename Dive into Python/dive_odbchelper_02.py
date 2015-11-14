@@ -7,6 +7,7 @@ __author__ = 'legenove'
     03、测试模块 if __name__ == "__main__":
     04、格式化字符串 "%s=%s" % (k, v)
     05、list comprehension 列表推到 ["%s=%s" % (k, v) for k, v in params.items()]
+    06、.join() 方法
 '''
 
 
