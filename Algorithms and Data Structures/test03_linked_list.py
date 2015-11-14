@@ -69,3 +69,19 @@ class UnorderedList(object):
             count += 1
             current = current.get_next()
         return count
+    
+if __name__ == "__main__":
+    myList = UnorderedList()
+    print myList.is_empty()
+    myList.add(31)
+    myList.add(77)
+    myList.add(17)
+    myList.add(93)
+    myList.add(26)
+    myList.add(54)
+    print myList.size()
+    print myList.search(17)
+    print myList.remove(17)
+    print myList.is_empty()
+    print myList.search(17)
+    print myList.size()
