@@ -1,0 +1,203 @@
+<html><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        
+        <meta name="description" content="bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。">
+        <meta name="keywords" content="B站,弹幕,字幕,AMV,MAD,MTV,ANIME,动漫,动漫音乐,游戏,游戏解说,ACG,galgame,动画,番组,新番,初音,洛天依,vocaloid">
+        
+        <meta name="theme-color" content="#de698c">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="apple-itunes-app" content="app-id=736536022">
+        <link rel="apple-touch-icon-precomposed" href="http://static.hdslb.com/mobile/img/512.png">
+        <link rel="icon" type="image/vnd.microsoft.icon" href="http://www.bilibili.com/favicon.ico">
+        <link rel="apple-touch-icon" href="http://www.bilibili.com/favicon.ico">
+        <link href="http://static.hdslb.com/mobile/css/normalize.css" rel="stylesheet">
+        <link href="http://static.hdslb.com/mobile/css/mobile.css" rel="stylesheet">
+        <script type="text/javascript">
+            window.rec_rp = window.rec_rp || function() {
+                (rec_rp.q = rec_rp.q || []).push(arguments)
+            };
+        </script>
+        
+    </head>
+    <body>
+    	
+        <div class="app loaded"><div class="load-cover"><div class="loading-txt">(´・ω・｀)正在加载...</div></div>
+            
+            <nav class="nav-bar">
+                <div class="nav-wrp">
+                    <a href="/mobile/index.html" class="logo"></a>
+                    <a class="cell" href="/mobile/history.html"><i class="nav-icon bili-icon-history"></i></a>
+                    <a class="cell" toggle-switch=".search" href="javascript: void(0);"><i class="nav-icon bili-icon-search"></i></a>
+                </div>
+                </nav></div>
+
+            
+            <div class="search toggle-panel">
+                <div class="toggle-panel-bg"></div>
+                <div class="toggle-panel-in">
+                    <div class="search-bar">
+                        <form action="/mobile/search.html" method="GET" id="search_form">
+                        	<input name="keyword" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="搜索视频、番剧、up主或AV号">
+                        </form>
+                        <i class="bili-icon-search search-icon"></i>
+                        <i class="bili-icon-circle-del close-icon"></i>
+                        <a toggle-switch=".search" class="search-cancel">取消</a>
+                    </div>
+                   <div class="search-wrapper"><div class="hot-wrapper"><div class="title"><span class="line"></span><span class="name">热门搜索</span><span class="line"></span></div><div class="hot-content clearfix"><a class="hot-item" data-key="暴走大事件">暴走大事件</a><a class="hot-item" data-key="逗鱼时刻">逗鱼时刻</a><a class="hot-item" data-key="吃货木下">吃货木下</a><a class="hot-item" data-key="在下坂本有何贵干">在下坂本有何贵干</a><a class="hot-item" data-key="极限挑战">极限挑战</a><a class="hot-item" data-key="主播真会玩">主播真会玩</a><a class="hot-item" data-key="欢乐颂">欢乐颂</a><a class="hot-item" data-key="这个平凡的男子">这个平凡的男子</a><a class="hot-item" data-key="起小点">起小点</a><a class="hot-item" data-key="我的奇妙男友">我的奇妙男友</a><a class="hot-item" data-key="恶作剧之吻">恶作剧之吻</a><a class="hot-item" data-key="火影忍者">火影忍者</a><a class="hot-item" data-key="守望先锋">守望先锋</a><a class="hot-item" data-key="镇魂街">镇魂街</a><a class="hot-item" data-key="pdd">pdd</a><a class="hot-item" data-key="天天卡牌">天天卡牌</a><a class="hot-item" data-key="蜡笔小新">蜡笔小新</a><a class="hot-item" data-key="拜托了冰箱">拜托了冰箱</a><a class="hot-item" data-key="got 7">got 7</a><a class="hot-item" data-key="fantastic duo">fantastic duo</a></div></div><div class="history-wrapper"><div class="title"><span class="line"></span><span class="name">历史搜索</span><span class="line"></span></div><div class="history-content"><a class="history-item" href="http://bilibili.com/mobile/search.html?keyword=%E9%87%8D%E8%BF%94%E6%99%92%E5%9C%BA"><i class="bili-icon-history"></i><span class="keyword">重返晒场</span><i class="bili-icon-del history-clear" data-value="重返晒场"></i></a><a class="history-item" href="http://bilibili.com/mobile/search.html?keyword=%E9%87%8E%E8%89%AF%E7%A5%9E"><i class="bili-icon-history"></i><span class="keyword">野良神</span><i class="bili-icon-del history-clear" data-value="野良神"></i></a><a class="history-item" href="http://bilibili.com/mobile/search.html?keyword=%E9%87%91%E8%89%B2%E7%90%B4%E5%BC%A6"><i class="bili-icon-history"></i><span class="keyword">金色琴弦</span><i class="bili-icon-del history-clear" data-value="金色琴弦"></i></a><a class="history-item" href="http://bilibili.com/mobile/search.html?keyword=%E7%83%A7%E8%84%91"><i class="bili-icon-history"></i><span class="keyword">烧脑</span><i class="bili-icon-del history-clear" data-value="烧脑"></i></a><a class="history-item" href="http://bilibili.com/mobile/search.html?keyword=%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%20%E5%8D%9A%E4%BA%BA%E4%BC%A0"><i class="bili-icon-history"></i><span class="keyword">火影忍者 博人传</span><i class="bili-icon-del history-clear" data-value="火影忍者 博人传"></i></a></div></div></div>
+                </div>
+            </div>
+            <div class="wrapper">
+                
+    <div class="flex-bar main">
+    <ul class="flex-bar-in">
+        <li class="nav-item nav-index"><a href="http://bilibili.com/mobile/index.html" title="首页">首页</a></li>
+        <li class="nav-item nav-channel on"><a href="http://bilibili.com/mobile/channel.html" title="频道">频道</a></li>
+        <li class="nav-item nav-live"><a href="http://live.bilibili.com" title="直播">直播</a></li>
+        <li class="nav-item nav-rank"><a href="http://bilibili.com/mobile/ranking.html" title="排行">排行</a></li>
+        <li class="nav-item nav-space"><a href="http://bilibili.com/mobile/myspace.html" title="我的">我的</a></li>
+    </ul>
+</div>    <div class="channel-wrapper clearfix">
+        <ul>
+            <li>
+                <a href="http://live.bilibili.com" class="channel-item">
+                    <div class="channel-icon bili-icon-live">
+                    </div>
+                    <p class="channel-name">直播</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=13" class="channel-item">
+                    <div class="channel-icon bili-icon-bangumi channel-c13">
+                    <span class="channel-num">49</span></div>
+                    <p class="channel-name">番剧</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=1" class="channel-item">
+                    <div class="channel-icon bili-icon-douga channel-c1">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">动画</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=3" class="channel-item">
+                    <div class="channel-icon bili-icon-music channel-c3">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">音乐</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=129" class="channel-item">
+                    <div class="channel-icon bili-icon-dance channel-c129">
+                    <span class="channel-num">62</span></div>
+                    <p class="channel-name">舞蹈</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=4" class="channel-item">
+                    <div class="channel-icon bili-icon-game channel-c4">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">游戏</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=36" class="channel-item">
+                    <div class="channel-icon bili-icon-tech channel-c36">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">科技</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=5" class="channel-item">
+                    <div class="channel-icon bili-icon-ent channel-c5">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">娱乐</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=119" class="channel-item">
+                    <div class="channel-icon bili-icon-kichiku channel-c119">
+                    <span class="channel-num">31</span></div>
+                    <p class="channel-name">鬼畜</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=23" class="channel-item">
+                    <div class="channel-icon bili-icon-movie channel-c23">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">电影</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=11" class="channel-item">
+                    <div class="channel-icon bili-icon-tv channel-c11">
+                    <span class="channel-num">99+</span></div>
+                    <p class="channel-name">电视剧</p>
+                </a>
+            </li>
+            <li>
+                <a href="/mobile/subchannel.html#tid=155" class="channel-item">
+                    <div class="channel-icon bili-icon-fashion channel-c155">
+                    <span class="channel-num">84</span></div>
+                    <p class="channel-name">时尚</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+                <footer>
+                    <p class="clearfix">
+                        <a id="change_to_computer" href="javascript:void(0)" class="bottom-btn"><i class="icons icons-computer"></i><span>电脑版</span></a>
+                        <a id="link_to_app" href="bilibili://" class="bottom-btn" target="_self"><i class="icons icons-app"></i>客户端</a>
+                        <a id="back_to_top" href="javascript:void(0)" class="bottom-btn"><i class="icons icons-top"></i>返回顶部</a>
+                    </p>
+                    <p>哔哩哔哩弹幕视频网 沪ICP备13002172号-3</p>
+                    <p>信息网络传播视听节目许可证：<span>0910417</span></p>
+                </footer>
+            </div>
+            
+            <div class="add-to-launcher" style="display: none">
+                <div class="triangle-down"></div>
+                <div class="desc">
+                    <p>点击<i class="share"></i></p>
+                    <p>把哔哩哔哩添加到iPhone主屏～</p>
+                </div>
+                <a class="close" href="javascript:void(0)"></a>
+            </div>
+        
+        
+        <script src="http://static.hdslb.com/js/jquery.min.js" type="text/javascript"></script>
+        
+        <script src="http://static.hdslb.com/mobile/js/vue.min.js" type="text/javascript"></script>
+        <script src="http://static.hdslb.com/mobile/js/swipe.min.js" type="text/javascript"></script>
+        <script src="http://static.hdslb.com/mobile/js/iscroll.min.js" type="text/javascript"></script>
+        <script src="http://static.hdslb.com/mobile/js/base.mobile.js" type="text/javascript"></script>
+        
+    <script type="text/javascript">
+        var app = new Application( ".app");
+        app.queue("Toggle", ".search");
+        channelCount(app);
+    </script><ul class="bilibili-suggest" style="top: 29px; left: 302.4px; display: none;"></ul>
+
+        <div style="display:none">
+		
+		
+		<script type="text/javascript">
+		$(function(){
+            if(window.Zepto) {
+                $.getScript('http://data.bilibili.com/rec.js', 'body');
+                $.getScript('http://s11.cnzz.com/stat.php?id=2724999&web_id=2724999', 'body');
+            } else {
+                $('<scr'+'ipt type="text/javascript" src="http://data.bilibili.com/rec.js"></scri'+'pt>').appendTo('body');
+                $('<scr'+'ipt type="text/javascript" src="http://s11.cnzz.com/stat.php?id=2724999&web_id=2724999" charset="UTF-8"></scri'+'pt>').appendTo('body');
+            }
+		});
+		</script>
+		</div>
+    
+
+<div id="b_app_link" class="b-app-dl-wrp" style="display: block; bottom: -75px;"><a class="b-app-dl"><div class="close-area icons icons-logo"><i class="icons icons-close"></i></div><div class="b-app-dl-top">上bilibili客户端</div><div class="b-app-dl-bottom">高清动画 离线观看 应有尽有</div><a target="_blank" class="dl-area" href="https://itunes.apple.com/cn/app/bi-li-bi-li-dong-hua/id736536022">下载</a></a></div></body></html>

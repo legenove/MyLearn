@@ -1,0 +1,61 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\桌面临时\APN简化推送\C# Demo\GetuiServerApiSDKDemo\bin\Debug\log4net.dll
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\bin\Debug\log4net.dll
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.csprojResolveAssemblyReference.cache
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+D:\工作文档\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+E:\OS-SDK临时存放\C# Demo\GetuiServerApiSDKDemo\bin\Debug\log4net.dll
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe.config
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.exe
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDKDemo.pdb
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\GetuiServerApiSDK.dll
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\Google.ProtocolBuffers.dll
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\bin\Debug\log4net.dll
+E:\OS-SDK\C# Demo\GetuiServerApiSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\GetuiServerApiSDKDemo.exe.config
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\obj\x86\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\obj\x86\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\GetuiServerApiSDKDemo.exe
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\GetuiServerApiSDKDemo.pdb
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\GetuiServerApiSDK.dll
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\https.sdk 4.0.1.0\c#-sdk-4.0.1.0\obj\x86\Debug\ResolveAssemblyReference.cache

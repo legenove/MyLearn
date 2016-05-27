@@ -1,0 +1,6 @@
+com.gexin.rp.sdk.base
+com.gexin.rp.sdk.base.em
+com.gexin.rp.sdk.base.impl
+com.gexin.rp.sdk.exceptions
+com.gexin.rp.sdk.http
+com.gexin.rp.sdk.template

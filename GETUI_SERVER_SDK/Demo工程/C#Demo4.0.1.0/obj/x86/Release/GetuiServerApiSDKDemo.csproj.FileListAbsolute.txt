@@ -1,0 +1,42 @@
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe.config
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.pdb
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDK.dll
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\Google.ProtocolBuffers.dll
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.exe
+E:\WorkSpace\RP\OS-SDK\SDK-CSHARP\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.pdb
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe.config
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.pdb
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDK.dll
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\Google.ProtocolBuffers.dll
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.exe
+D:\RP\gexin-rp-sdk-csharp\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.pdb
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe.config
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.exe
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.pdb
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.pdb
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDK.dll
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\Google.ProtocolBuffers.dll
+C:\Documents and Settings\Administrator\桌面\OS-SDK\trunk\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe.config
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.pdb
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDK.dll
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\Google.ProtocolBuffers.dll
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.exe
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.pdb
+F:\服务端配置文件\os-sdk(2.12)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\log4net.dll
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe.config
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.exe
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\GetuiServerApiSDKDemo.pdb
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.exe
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDKDemo.pdb
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\GetuiServerApiSDK.dll
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\Google.ProtocolBuffers.dll
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\bin\Release\log4net.dll
+F:\服务端配置文件\os-sdk(2.25)\C#\GetuiServerApiSDKDemo\GetuiServerApiSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
