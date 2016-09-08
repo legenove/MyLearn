@@ -1,7 +1,10 @@
+#encoding=utf-8
 import datetime
 
 from django.db import models
 from django.utils import timezone
+from django.contrib.auth.models import AbstractUser
+
 
 class Question(models.Model):
     question_text = models.CharField(max_length=200)

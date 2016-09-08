@@ -1,0 +1,198 @@
+{% extends "base.html" %}
+{% block link %}
+<style>
+    body {
+        background-image: URL(/static/img/background_0.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+    .blur {
+        filter: url(blur.svg#blur);
+
+        -webkit-filter: blur(10px);
+        -moz-filter: blur(10px);
+        -ms-filter: blur(10px);
+        filter: blur(10px);
+
+        filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false);
+    }
+
+    .error-mes .alert-error {
+        padding: 0;
+        color: #cd5c5c;
+        margin-bottom: -26px;
+    }
+
+    .error-mes h4 {
+        font-size: 13px;
+    }
+
+    .fix-info {
+        display: none;
+    }
+
+    .login-box {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 150px auto auto auto;
+        width: 320px;
+        max-height: 375px;
+        background-color: rgba(255, 255, 255, 0.55);
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+
+    .logo {
+        width: 100%;
+        margin-top: 5px;
+        height: 18px;
+        position: relative;
+        text-align: center;
+        color: #008870;
+        margin-bottom: 18px;
+    }
+
+    .logo .mark-logo {
+        width: 110px;
+        height: 2px;
+        background-color: white;
+        position: absolute;
+        top: 8px;
+    }
+
+    .logo .mark-left {
+        left: 15px;
+    }
+
+    .logo .mark-right {
+        right: 15px;
+    }
+
+    .login {
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        color: white;
+    }
+
+    .login .input-margin-top {
+        margin-top: 19px;
+    }
+
+    .login .login-input {
+        background: white;
+        border-color: #7bdfce;
+    }
+
+    .login .login-color {
+        color: #7bdfce;
+    }
+
+    .btn-login {
+        color: #eee;
+        background-color: #cd006a;
+        border-color: rgba(205, 0, 106, 0.51);
+        width: 100%;
+    }
+
+    .btn-login:hover {
+        color: #eee;
+    }
+
+    .icons {
+        margin-top: 18px;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 217px;
+    }
+
+    .icons .ico {
+        margin-right: 15px;
+    }
+
+    .icons .ico:last-child {
+        margin-right: 0;
+    }
+
+</style>
+{% endblock%}
+{% block body %}
+<div class="container">
+    <div class="login-box">
+        <div class="logo">
+            <div class="mark-logo mark-left"></div>
+            <span>LOGO</span>
+
+            <div class="mark-logo mark-right"></div>
+        </div>
+        <div class="login">
+            <form class="login_form" id="loginForm" method="post" action="{% url 'signin' %}">
+                {% csrf_token %}
+                <div class="input-group input-margin-top">
+                <span class="input-group-addon login-input">
+                    <span class="glyphicon glyphicon-user login-color"></span>
+                </span>
+
+                    <input type="text" class="form-control login-input" id="account" name="username"
+                           placeholder="请输入用户名"
+                           aria-describedby="basic-addon1">
+                </div>
+                <div class="input-group input-margin-top">
+                <span class="input-group-addon login-input">
+                    <span class="glyphicon glyphicon-lock login-color"></span>
+                </span>
+
+                    <input type="password" class="form-control login-input" id="pwd" name="password" placeholder="请输入密码"
+                           aria-describedby="basic-addon1">
+                </div>
+                {% if form.errors %}
+                <div class="error-mes">
+                    {% for error in form.non_field_errors %}
+                    <div class="alert alert-error"><h4> {{ error }}</h4></div>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                <div class="error-mes fix-info">
+                    <div class="alert alert-error"><h4>
+                        用户名或密码不能为空
+                    </h4></div>
+                </div>
+                <div class="input-margin-top pull-right">
+                    <a style="color:#1e9681;text-decoration:underline;margin-right: 15px">注册</a>
+                    <a style="color: white;text-decoration:underline;">忘记密码</a>
+                </div>
+                <div style="clear:both"></div>
+                <button type="submit" href="javascript:" id="loginBt" class="btn btn-login input-margin-top">
+                    登&nbsp&nbsp录
+                </button>
+            </form>
+        </div>
+        <div class="icons">
+            <i class="ico ico-weibo"></i>
+            <i class="ico ico-weixin"></i>
+            <i class="ico ico-qq"></i>
+            <i class="ico ico-douban"></i>
+            <i class="ico ico-renren"></i>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#loginForm').submit(function () {
+                var username = $.trim($("#account").val());
+                var passwd = $.trim($("#pwd").val());
+                var fix_mes = $(".fix-info");
+                if (username === '' || passwd === '') {
+                    $(".error-mes").hide();
+                    fix_mes.show();
+                    return false;
+                }
+                fix_mes.hide();
+                return true;
+            })
+        })
+    </script>
+</div>
+{% endblock %}

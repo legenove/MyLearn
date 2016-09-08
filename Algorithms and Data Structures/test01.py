@@ -82,11 +82,7 @@ class Fraction(object):
 ###3.GCD 最大公约数####
 def gcd(m, n):
     while m % n != 0:
-        old_m = m
-        old_n = n
-
-        m = old_n
-        n = old_m % n
+        m,n = n,m % n
     return n
 
 #1.test

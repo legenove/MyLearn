@@ -1,0 +1,794 @@
+[
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=cc0026e0962411de83b1&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMzE2ODg0MDAw.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=cc0026e0962411de83b1&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "116018"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=d614bea0329111e18195&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XNDUxMDA2MzQw.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=d614bea0329111e18195&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "127573"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=c0b9aa5a329311e19498&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XNDUyOTU4Nzgw.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=c0b9aa5a329311e19498&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "127574"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=3b285e307fb511e19194&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMzc2NzcyMDc2.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=3b285e307fb511e19194&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "173346"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=cc002e92962411de83b1&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XNDcwODExMjQ4.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=cc002e92962411de83b1&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "173362"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=cc006556962411de83b1&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMzAyNDA0MDI0.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=cc006556962411de83b1&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "173366"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=cc008ca2962411de83b1&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XNTA0MDYwMTEy.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=cc008ca2962411de83b1&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "173378"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=68af239a482a11e3b8b7&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ4NzE2ODczNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=68af239a482a11e3b8b7&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "230753"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=363fe9de5e3d11e3a705&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUwMzAwNDYxNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=363fe9de5e3d11e3a705&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "232632"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=163cc676b97711e38b3f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQyOTkwODk1Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=163cc676b97711e38b3f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "236599"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=5fd9cfe4ce9f11e38b3f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ4OTg4NTcxNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=5fd9cfe4ce9f11e38b3f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "237433"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=38c7c22eceb511e3a705&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYxNTQyODI4OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=38c7c22eceb511e3a705&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "237462"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=0affce16505811e4a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XODAyMDkxNzQw.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=0affce16505811e4a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "242678"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=882ffb94582e11e4a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XODAyMDE5NTg4.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=882ffb94582e11e4a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "243051"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=e48e6e0cb02611e4b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XOTA4NDgxMjI0.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=e48e6e0cb02611e4b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "246442"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=364c9f96fed011e4b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ0ODQ3NjMwOA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=364c9f96fed011e4b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "247806"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=58f52458197611e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTI3NjM2MjcyMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=58f52458197611e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "248251"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=198869161f9c11e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ0Nzc3NTE3Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=198869161f9c11e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "248420"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=373e4c302aac11e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTI5ODcwMDk3Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=373e4c302aac11e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "248680"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=168d71f035c911e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzMTUxNjQ2NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=168d71f035c911e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "249051"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=0b39c5b6569311e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTM1MTc4MDU3Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=0b39c5b6569311e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "249750"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=015285e270ab11e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTM5Mzk4MTU0MA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=015285e270ab11e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "250588"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=21073c9078a111e5b692&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU4MTY4OTg5Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=21073c9078a111e5b692&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "250814"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=b1ecb39282d411e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTM5MjM5NTAyMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=b1ecb39282d411e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251027"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=a3deacf0835c11e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU4MTQyNDIxMg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=a3deacf0835c11e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251035"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=bf5160e4883a11e59e2a&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUxNzE5NjcwNA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=bf5160e4883a11e59e2a&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251165"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=7c87f1ae8e6311e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTI2MDkyNjU0MA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=7c87f1ae8e6311e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251599"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=c40df6c08e9211e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzMTMzMzgyOA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=c40df6c08e9211e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251654"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=5cd51fc28e9411e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNjM3OTU2OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=5cd51fc28e9411e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "251659"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=b564e7da9c9f11e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ3Mjk3NTc5Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=b564e7da9c9f11e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252225"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=51f0f6549d5711e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNDUzOTU2OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=51f0f6549d5711e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252249"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=7712090c9d5a11e5a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNDMxNzY4MA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=7712090c9d5a11e5a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252252"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=888e119a9d7711e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzMzM2MDgyMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=888e119a9d7711e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252285"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=95d328289ee311e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQyOTkxOTM4OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=95d328289ee311e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252421"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=e7bf3156ab0211e5a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ0MDg4NTA1Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=e7bf3156ab0211e5a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252801"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=e3b38316ae0711e5be16&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNzQzNTM3Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=e3b38316ae0711e5be16&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "252850"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=566b4f22b3a011e5b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU3MDY1NTk2NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=566b4f22b3a011e5b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253242"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=429f6530b41511e5a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU3Mzc4NDA1Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=429f6530b41511e5a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253243"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=9a5e274ab44511e59e2a&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ0ODQ2Nzg4OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=9a5e274ab44511e59e2a&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253247"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=a73c5e3eb5e711e5b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNjA5MjE1Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=a73c5e3eb5e711e5b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253323"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=7458e6e0b5e711e5b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzNjk1MjY2OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=7458e6e0b5e711e5b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253324"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=6a5826beb84a11e5a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQzMTczMjY0NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=6a5826beb84a11e5a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253353"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=b77de6d0bb5211e5b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU3MjU5MTM5Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=b77de6d0bb5211e5b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253447"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=b479d708be7911e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU5MTM5MjkzNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=b479d708be7911e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253495"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=a770bc20d2dd11e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ5OTgxOTkzMg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=a770bc20d2dd11e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253856"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=527815f0d56811e5b0e1&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU0MDMwNDk4NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=527815f0d56811e5b0e1&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253935"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=984af48ed91011e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ3NzA1MzgzNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=984af48ed91011e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "253993"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=fb0e65ccdb6a11e58bfb&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUwMDMzNzY2NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=fb0e65ccdb6a11e58bfb&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254084"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=920240a0db7211e58bfb&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU2ODE4MjQyNA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=920240a0db7211e58bfb&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254086"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=9b23954ce04c11e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ5MjQ2MTQ0OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=9b23954ce04c11e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254202"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=af361582e59c11e5b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUyMTM2MjU4OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=af361582e59c11e5b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254357"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=37bea9bef0d811e5b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU3Mzg1OTQwMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=37bea9bef0d811e5b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254726"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=234cc978f0e411e583e8&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUzODUzNDM2MA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=234cc978f0e411e583e8&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254730"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=df253508f0e511e5b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTUzODU5MzQwMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=df253508f0e511e5b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "254731"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=9492812affbe11e59e2a&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQ0MjEyOTA5Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=9492812affbe11e59e2a&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255096"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=65a4f574ffe011e5b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU2NjgyODI4OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=65a4f574ffe011e5b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255106"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=ee1e0fe402e211e6a080&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYzOTM2MDEyOA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=ee1e0fe402e211e6a080&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255203"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=e13b62e2047011e6b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU0NDg4NTEwMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=e13b62e2047011e6b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255231"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=6476f5ae078711e69e2a&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU0NDMxMDkyMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=6476f5ae078711e69e2a&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255339"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=c99085240dca11e683e8&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU1NDc1NTY4NA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=c99085240dca11e683e8&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255549"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=288bec640dfa11e69c81&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU1OTMyMDExNg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=288bec640dfa11e69c81&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255561"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=eb72b9ca17f011e6b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU3NTQwNDcwNA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=eb72b9ca17f011e6b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "255815"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=525036601e3911e6b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYzMDg5ODU4MA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=525036601e3911e6b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256099"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=5e8a79401e7511e6b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTU4MzUxOTQwOA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=5e8a79401e7511e6b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256110"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=ee0c7e0c1e7911e6b2ad&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYzMzYyMjU0OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=ee0c7e0c1e7911e6b2ad&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256111"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=88d5a8fc226a11e6b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYwMTkzMzg2OA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=88d5a8fc226a11e6b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256351"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=1793314027ed11e69e2a&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYxNDc2Njc3Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=1793314027ed11e69e2a&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256586"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=1358de16286c11e6b522&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYwMzI3MTAwMA==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=1358de16286c11e6b522&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256600"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=1800388c336c11e6b432&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYxOTc3MzI5Ng==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=1800388c336c11e6b432&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "256952"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=b57d08f7376f11e6bdbb&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XOTYxNzc2ODg4.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=b57d08f7376f11e6bdbb&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "257073"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=dd4aab2e3e9111e6b32f&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTYyNjM5MjA3Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=dd4aab2e3e9111e6b32f&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "257467"
+  }, 
+  {
+    "skip_inf": {
+      "yk_play_ios": "youku://play?vid=879f04363f5911e69b6d&source=app-tudou", 
+      "skip_type": "yk_video", 
+      "skip_url": "http://m.youku.com/video/id_XMTQwMDY5ODI1Mg==.html?from=tudouapp", 
+      "browser_type": 1, 
+      "yk_play": "youku://play?showid=879f04363f5911e69b6d&source=app-tudou"
+    }, 
+    "type": "show", 
+    "id": "257491"
+  }
+]

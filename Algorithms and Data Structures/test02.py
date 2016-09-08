@@ -69,6 +69,8 @@ def anagram_solution3(s1, s2):
 print(anagram_solution3('apple', 'pleap'))
 
 
+print list(range(2))
+
 def test1():
     l = []
     for i in range(10000):
@@ -109,3 +111,4 @@ for i in range(10000, 1000001, 20000):
     x = {j: None for j in range(i)}
     d_time = t.timeit(number=1000)
     print("%d,%10.3f,%10.3f" % (i, lst_time, d_time))
+

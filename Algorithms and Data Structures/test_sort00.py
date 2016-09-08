@@ -40,7 +40,7 @@ def shell_sort(mylist):
     return mylist
 
 
-# 直接选择排序
+# 直接f选择排序
 def select_sort(my_list):
     count = len(my_list) - 1
     for i in range(count):
@@ -125,7 +125,6 @@ def merge_sort(lst):
     return merge(left_l, right_l)
 
 
-
 def merge(left, right):
     r, l = 0, 0
     reslut = []
@@ -143,23 +142,24 @@ def merge(left, right):
 # 基数排序
 import math
 
+
 def radix_sort(a, radix=10):
     """a为整数列表， radix为基数"""
-    K = int(math.ceil(math.log(max(a), radix))) # 用K位数可表示任意整数
+    K = int(math.ceil(math.log(max(a), radix)))  # 用K位数可表示任意整数
     bucket = [[] for i in range(radix)]
-    for i in range(1, K+1): # K次循环
+    for i in range(1, K + 1):  # K次循环
         for val in a:
-            bucket[val%(radix**i)/(radix**(i-1))].append(val) # 析取整数第K位数字 （从低到高）
+            bucket[val % (radix ** i) / (radix ** (i - 1))].append(val)  # 析取整数第K位数字 （从低到高）
         del a[:]
         for each in bucket:
-            a.extend(each) # 桶合并
+            a.extend(each)  # 桶合并
         bucket = [[] for i in range(radix)]
     return a
 
 
-l = [1, 4, 3, 2, 5, 3, 5, 9, 5, 7]
+l = [12, 43, 13, 42, 25, 53, 75, 92, 53, 72]
 
-print radix_sort(l)
+print heap_sort(l)
 
 import time
 
@@ -183,7 +183,7 @@ a5 = [random.randint(0, length) for i in range(length)]
 # random.shuffle(range(length))
 print "data.inited"
 
-test_sort(a1, fast_sort)
+test_sort(a1, heap_sort)
 
 print "=" * 10
 test_sort(a2, fast_sort)

@@ -11,10 +11,11 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-import os
+import os, sys
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
+PROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(PROJECT_ROOT, os.pardir))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
@@ -24,10 +25,8 @@ SECRET_KEY = '!^4pdxlc2)v)(upz3981rve6vwjv-t6lyq-ms098%vv_2%a_%-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = []
-
-
+TEMPLATE_DEBUG = True
+ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = (
@@ -38,7 +37,9 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls',
+    'user',
 )
+ugettext = lambda s: s
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -52,22 +53,36 @@ MIDDLEWARE_CLASSES = (
 )
 
 ROOT_URLCONF = 'MyDjangoSite.urls'
+AUTH_USER_MODEL = 'user.Account'
 
-TEMPLATES = [
-    {
-        'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
-        'APP_DIRS': True,
-        'OPTIONS': {
-            'context_processors': [
-                'django.template.context_processors.debug',
-                'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth',
-                'django.contrib.messages.context_processors.messages',
-            ],
-        },
-    },
-]
+LOGIN_URL = "/signin"
+LOGIN_REDIRECT_URL = "/"
+
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'templates'),
+    os.path.join(PROJECT_ROOT, "templates"),
+    os.path.join(BASE_DIR, "user/templates"),
+    os.path.join(BASE_DIR, "polls/templates"),
+)
+
+TEMPLATE_LOADERS = (
+    (
+        'django.template.loaders.cached.Loader',
+        (
+            'django.template.loaders.filesystem.Loader',
+            'django.template.loaders.app_directories.Loader',
+        )
+    ),
+)
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+    "django.core.context_processors.debug",
+    "django.core.context_processors.i18n",
+    "django.core.context_processors.media",
+    "django.core.context_processors.request",
+    'django.core.context_processors.static',
+    'django.contrib.messages.context_processors.messages',
+    "django.contrib.auth.context_processors.auth",)
 
 WSGI_APPLICATION = 'MyDjangoSite.wsgi.application'
 
@@ -79,7 +94,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
 
-        'NAME': 'learn_site_1', # Or path to database file if using sqlite3.
+        'NAME': 'learn_site_1',  # Or path to database file if using sqlite3.
 
         'USER': 'root',  # Not used with sqlite3.
 
@@ -93,19 +108,27 @@ DATABASES = {
 
         'OPTIONS': {
 
-            #'init_command': 'SET storage_engine=INNODB;SET GLOBAL  TRANSACTION ISOLATION LEVEL READ COMMITTED;SET autocommit=1;',
+            # 'init_command': 'SET storage_engine=INNODB;SET GLOBAL  TRANSACTION ISOLATION LEVEL READ COMMITTED;SET autocommit=1;',
 
         },
     }
 }
 
+AUTHENTICATION_BACKENDS = ('user.backends.MyBackends',
+                           # 'django.contrib.auth.backends.ModelBackend',
+)
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh_cn'
+LANGUAGES = [
+    ('en', ugettext('English')),
+    ('zh-cn', ugettext('Chinese')),
+]
+TRANSMETA_DEFAULT_LANGUAGE = 'zh-cn',
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -118,3 +141,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = ''
+
+STATICFILES_DIRS = (os.path.join(PROJECT_ROOT, 'static'),)
+
+STATICFILES_FINDERS = [
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+]

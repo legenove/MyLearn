@@ -20,6 +20,7 @@ def triangles():
         yield r
         m += 1
 
+
 n = 0
 for t in triangles():
     print(t)
@@ -28,3 +29,21 @@ for t in triangles():
         break
 
 
+class CountDown(object):
+    def __init__(self, start):
+        self.count = start
+
+    def __iter__(self):
+        return CountDownIter(self.count)
+
+
+class CountDownIter(object):
+    def __init__(self, count):
+        self.count = count
+
+    def next(self):
+        if self.count <= 0:
+            raise StopIteration
+        r = self.count
+        self.count -= 1
+        return r
