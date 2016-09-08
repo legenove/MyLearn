@@ -1,15 +1,14 @@
 # -*- coding: utf-8 -*-
 
+import sys, os
 from werkzeug.serving import BaseRequestHandler
 from flask.ext.script import Manager, Server
 
-from weixinapp.app import create_app
-from base.settings import settings
+from base.settings import settings, create_app
 
-app = create_app(test=True)
+
+app = create_app(True, False, 'base', 'weixinapp')
 manager = Manager(app)
-
-
 
 manager.add_command('server', Server(host='0.0.0.0', port=settings['PORT'],
                                      use_reloader=True, threaded=True,
