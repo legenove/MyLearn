@@ -60,11 +60,11 @@ import psycopg2
 import traceback
 from tornado.options import define, options
 
-define("db_host", type=str, default=getenv('DB_HOST','10.0.80.11')) #'10.0.80.13'
-define("db_port", type=int, default=getenv('DB_PORT','5432'))
-define("db_user", type=str, default=getenv('DB_USER','fdonline'))#'zaihang'
-define("db_password", type=str, default=getenv('DB_PASSWORD','Fenda!2016'))#'zzzz'
-define("db_database", type=str, default=getenv('DB_DATABASE','zhifubao'))
+define("db_host", type=str, default=getenv('DB_HOST',''))
+define("db_port", type=int, default=getenv('DB_PORT',''))
+define("db_user", type=str, default=getenv('DB_USER',''))
+define("db_password", type=str, default=getenv('DB_PASSWORD',''))#'zzzz'
+define("db_database", type=str, default=getenv('DB_DATABASE',''))
 
 
 class Database(object):
