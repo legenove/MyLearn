@@ -19,6 +19,7 @@ bad_path = "../bad/"
 voice_file_name = "voice_url_%d.txt"
 split_str = ":$??:"
 mp3_file = "/Users/legenove/GuokrWorkSpace/Other/mp3_files/"
+# mp3_file = "/Volumes/Samsung_T3/mp3_files/"
 
 
 class QusetionData(object):
@@ -86,7 +87,7 @@ def save_voice_url(qusetion_datas):
         with open(voice_path + voice_file_name % index, 'w') as voice_file:
             voice_urls = []
             question_ids = [q[0] for q in question]
-            sql = "SELECT id FROM answer WHERE" \
+            sql = "SELECT id,question_id FROM answer WHERE" \
                   " question_id IN %s AND" \
                   " type = 'answer' AND" \
                   " status IN ('succeed');" % str(tuple(question_ids))
@@ -95,10 +96,11 @@ def save_voice_url(qusetion_datas):
 
             ret, answers = _db.query(sql)
             if ret:
-                answer_ids = [a[0] for a in answers if a[0] is not None]
+                answer_dict = {a[0]: a[1] for a in answers if a[0] is not None}
+                answer_ids = answer_dict.keys()
                 while answer_ids:
 
-                    sql = "SELECT id,voice_key,source,store_type,status FROM voice WHERE" \
+                    sql = "SELECT id,voice_key,source,store_type,status,target_id FROM voice WHERE" \
                           " target_id IN %s;" % str(tuple(answer_ids[:6000]))
                     answer_ids = answer_ids[6000:]
 
@@ -106,14 +108,14 @@ def save_voice_url(qusetion_datas):
                     if ret:
                         for voice in voices:
                             try:
-                                voice_urls.append(split_str.join(voice) + '\n')
+                                voice_urls.append(answer_dict[voice[5]]+'_'+split_str.join(voice)+ '\n')
                                 count += 1
                             except TypeError:
                                 pass
-                            # url = get_url(voice[1], store_type=voice[3], status=voice[4], source=voice[2])
-                            # if url:
-                            # voice_urls.append(voice[0] + split_str + url + '\n')
-                            #     count += 1
+                                # url = get_url(voice[1], store_type=voice[3], status=voice[4], source=voice[2])
+                                # if url:
+                                # voice_urls.append(voice[0] + split_str + url + '\n')
+                                # count += 1
             voice_file.writelines(voice_urls)
             files += 1
         print files, count

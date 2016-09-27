@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="m-cms-new" />
     <orderEntry type="module" module-name="flask_learn" />
+    <orderEntry type="module" module-name="index_manage" />
+    <orderEntry type="module" module-name="audo-download-voice" />
   </component>
 </module>

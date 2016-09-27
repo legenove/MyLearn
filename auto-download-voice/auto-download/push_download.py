@@ -13,31 +13,38 @@ sys.path.insert(0, os.path.join(PROJECT_ROOT, "..", "site-packages"))
 
 from redis_model.queue import Client
 
-from load_data import voice_path, bad_path, split_str, mp3_file,get_url
+from load_data import voice_path, bad_path, split_str, mp3_file, get_url
 
 queue_client = Client()
 
+
 def download_mp3(begin=None, end=None):
     voice_files = os.listdir(voice_path)
-    count = 0
     if begin is not None and end is not None:
         voice_files = voice_files[begin:end]
-    print len(voice_files)
     for voice_file in voice_files:
+        file_name = voice_file.split('.')[0]
+        mp3_path = mp3_file + file_name + '/'
+        exist_path = False
+        if os.path.exists(mp3_path):
+            exist_path = True
         with open(voice_path + voice_file, 'r') as voice_infos:
             for info in voice_infos.readlines():
                 info_list = info.strip('\n').split(split_str)
                 data = {
+                    'file_name': file_name,
                     'vid': info_list[0],
                     'key': info_list[1],
                     'source': info_list[2],
                     'store_type': info_list[3],
                     'status': info_list[4],
                 }
-
+                if exist_path:
+                    mp3_final_path = mp3_path + info_list[0] + ".mp3"
+                    if os.path.exists(mp3_final_path):
+                        continue
                 queue_client.dispatch("background_download.mp3", data)
-                count += 1
-    print count
+
 
 if __name__ == '__main__':
     try:
@@ -49,6 +56,6 @@ if __name__ == '__main__':
     except:
         end = None
 
-    download_mp3(begin,end)
+    download_mp3(begin, end)
 
 
