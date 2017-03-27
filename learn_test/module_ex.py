@@ -10,6 +10,8 @@ def test():
         print('Hello, %s!' % args[1])
     else:
         print('Too many arguments!')
+    return 'a'
 
 if __name__=='__main__':
-    test()
+    a = test() if [] else 'b'
+    print a
